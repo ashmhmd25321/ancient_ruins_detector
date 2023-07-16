@@ -61,6 +61,6 @@ This project was inspired by the rich historical and cultural heritage of Sri La
 
 For any inquiries or feedback regarding the Ancient Ruins Detector app, please contact:
 
-A. Mohomed Ashfak
+A. Mohomed Ashfak ||
 ashfak25321@gmail.com
 
